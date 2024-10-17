@@ -8,7 +8,7 @@ It includes various markdown files, each covering a specific topic in detail.
 1. [Introduction to BOSH](./docs/1-introduction-to-bosh.md)
 2. [Basic BOSH Operations](./docs/2-basic-bosh-operations.md)
 3. [Demo: Deploying NGINX with BOSH](./docs/3-deploying-nginx-with-bosh.md)
-4. [Deploying with BOSH](./docs/deploying-with-bosh.md)
+4. [Build Your Own BOSH Releases](./docs/4-build-your-own-bosh-releases.md)
 5. [BOSH Troubleshooting](./docs/bosh-troubleshooting.md)
 6. [Cloud Foundry Deployment](./docs/cloud-foundry-deployment.md)
 7. [Advanced Topics](./docs/advanced-topics.md)
