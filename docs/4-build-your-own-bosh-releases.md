@@ -221,7 +221,11 @@ bosh -d <deployment-name> ssh <instance-name>
 
 ## 9. Examples and Useful Links
 
-Example of a BOSH release for deploying a simple Spring Boot application: https://github.com/nhairlahovic-evoila/spring-boot-bosh-release
+Examples of a BOSH release:
+
+- **Simple Release**: https://github.com/nhairlahovic-evoila/spring-boot-bosh-release
+- **Release with Packages and Blobs**: https://github.com/nhairlahovic-evoila/spring-boot-bosh-release
+
 
 
 Useful Links:
